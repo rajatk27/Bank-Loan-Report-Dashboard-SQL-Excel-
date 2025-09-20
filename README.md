@@ -6,6 +6,8 @@ The objective is to monitor loan applications, funded amounts, repayments, and l
 
 ## 📸 Dashboard Preview
 ![Bank Loan Report Overview](Dashboard/Dashboard_Overview.png)
+
+
 ![Bank Loan Report Summary](Dashboard/Dashboard_Summary.png)
 
 
