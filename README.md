@@ -1,6 +1,7 @@
 📊 Bank Loan Report Dashboard (SQL + Excel)
 
 📌 Project Overview
+
 This project analyzes bank loan data using SQL queries and visualizes the insights in Excel dashboards.
 The objective is to monitor loan applications, funded amounts, repayments, and loan performance (Good vs Bad loans) with interactive filtering options.
 
