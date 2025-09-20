@@ -5,9 +5,8 @@ This project analyzes bank loan data using SQL queries and visualizes the insigh
 The objective is to monitor loan applications, funded amounts, repayments, and loan performance (Good vs Bad loans) with interactive filtering options.
 
 ## 📸 Dashboard Preview
-![Bank Loan Report](Dashboard/Dashboard Overview.png)  
-
-![Bank Loan Report](Dashboard/Dashboard Summary.png)  
+![Bank Loan Report Overview](Dashboard/Dashboard_Overview.png)
+![Bank Loan Report Summary](Dashboard/Dashboard_Summary.png)
 
 
 🗂️ Key Features
